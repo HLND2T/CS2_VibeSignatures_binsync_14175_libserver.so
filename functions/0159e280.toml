@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043258Z
+addr = 0x159e280
+size = 0x26f
+name = "CCSPlayer_WeaponServices_EquipWeapon"
+type = "long long"
+
+[header]
+name = "CCSPlayer_WeaponServices_EquipWeapon"
+addr = 0x159e280
+type = "long long"
+
+[header.args]

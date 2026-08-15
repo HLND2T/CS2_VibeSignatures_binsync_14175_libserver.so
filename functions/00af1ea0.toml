@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042797Z
+addr = 0xaf1ea0
+size = 0x4ea
+name = "CCSPlayerPawn_PostThink"
+type = "long long"
+
+[header]
+name = "CCSPlayerPawn_PostThink"
+addr = 0xaf1ea0
+type = "long long"
+
+[header.args]

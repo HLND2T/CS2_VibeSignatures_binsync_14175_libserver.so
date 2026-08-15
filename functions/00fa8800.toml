@@ -1,0 +1,10 @@
+last_change = 2026-08-15T07:57:57.043110Z
+addr = 0xfa8800
+size = 0x2d3a
+name = "CBaseModelEntity_GetScriptDescInternal"
+
+[header]
+name = "CBaseModelEntity_GetScriptDescInternal"
+addr = 0xfa8800
+
+[header.args]

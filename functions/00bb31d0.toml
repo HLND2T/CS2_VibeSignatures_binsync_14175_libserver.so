@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042832Z
+addr = 0xbb31d0
+size = 0x13f4
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+type = "long long"
+
+[header]
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+addr = 0xbb31d0
+type = "long long"
+
+[header.args]

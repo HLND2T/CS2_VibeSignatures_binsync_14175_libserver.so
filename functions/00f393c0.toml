@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043007Z
+addr = 0xf393c0
+size = 0x3f3
+name = "CSpawnGroupMgrGameSystem_DumpSpawnGroups"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_DumpSpawnGroups"
+addr = 0xf393c0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043205Z
+addr = 0x152c500
+size = 0x5d
+name = "CCSPlayerController_SwitchTeam"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_SwitchTeam"
+addr = 0x152c500
+type = "long long"
+
+[header.args]

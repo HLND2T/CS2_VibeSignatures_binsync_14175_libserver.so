@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042848Z
+addr = 0xbfe180
+size = 0xacc
+name = "CCSBot_ComputePath"
+type = "long long"
+
+[header]
+name = "CCSBot_ComputePath"
+addr = 0xbfe180
+type = "long long"
+
+[header.args]

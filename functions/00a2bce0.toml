@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042757Z
+addr = 0xa2bce0
+size = 0x112
+name = "sub_A2BCE0"
+type = "long long"
+
+[header]
+name = "sub_A2BCE0"
+addr = 0xa2bce0
+type = "long long"
+
+[header.args]

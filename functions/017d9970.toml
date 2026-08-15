@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043513Z
+addr = 0x17d9970
+size = 0x18a
+name = "CBaseEntity_dtor"
+type = "long long *"
+
+[header]
+name = "CBaseEntity_dtor"
+addr = 0x17d9970
+type = "long long *"
+
+[header.args]

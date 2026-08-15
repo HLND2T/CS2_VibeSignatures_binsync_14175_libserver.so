@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043623Z
+addr = 0x18d3560
+size = 0x5f
+name = "CSource2Server_GetLevelsFromSaveFile"
+type = "long long"
+
+[header]
+name = "CSource2Server_GetLevelsFromSaveFile"
+addr = 0x18d3560
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043236Z
+addr = 0x1559130
+size = 0xd38
+name = "CCSPlayer_MovementServices_CheckJumpButton"
+type = "void"
+
+[header]
+name = "CCSPlayer_MovementServices_CheckJumpButton"
+addr = 0x1559130
+type = "void"
+
+[header.args]

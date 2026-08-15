@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043681Z
+addr = 0x18e8b40
+size = 0x55d
+name = "CSource2Server_GetEntityReport"
+type = "long long"
+
+[header]
+name = "CSource2Server_GetEntityReport"
+addr = 0x18e8b40
+type = "long long"
+
+[header.args]

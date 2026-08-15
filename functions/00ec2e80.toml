@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042956Z
+addr = 0xec2e80
+size = 0x471
+name = "CBodyGameSystem_SpawnDependencyIsland"
+type = "unsigned long long"
+
+[header]
+name = "CBodyGameSystem_SpawnDependencyIsland"
+addr = 0xec2e80
+type = "unsigned long long"
+
+[header.args]

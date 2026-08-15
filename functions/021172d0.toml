@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043811Z
+addr = 0x21172d0
+size = 0x4dd
+name = "CConcreteEntityList_FreeEntity"
+type = "unsigned long long"
+
+[header]
+name = "CConcreteEntityList_FreeEntity"
+addr = 0x21172d0
+type = "unsigned long long"
+
+[header.args]

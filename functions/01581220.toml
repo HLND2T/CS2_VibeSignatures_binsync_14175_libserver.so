@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043245Z
+addr = 0x1581220
+size = 0x662
+name = "CCSPlayer_MovementServices_CheckVelocity"
+type = "float *"
+
+[header]
+name = "CCSPlayer_MovementServices_CheckVelocity"
+addr = 0x1581220
+type = "float *"
+
+[header.args]

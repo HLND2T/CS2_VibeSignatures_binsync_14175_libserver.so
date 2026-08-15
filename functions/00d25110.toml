@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042905Z
+addr = 0xd25110
+size = 0x287
+name = "CBaseEntity_ModifyOrAppendCriteria"
+type = "long long"
+
+[header]
+name = "CBaseEntity_ModifyOrAppendCriteria"
+addr = 0xd25110
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:58:15.542886Z
+addr = 0x16a9740
+size = 0xd26
+name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
+type = "long long"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
+addr = 0x16a9740
+type = "long long"
+
+[header.args]

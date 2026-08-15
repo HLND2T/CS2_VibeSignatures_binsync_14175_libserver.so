@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042877Z
+addr = 0xc0e1b0
+size = 0x1a
+name = "CCSBot_Idle"
+type = "void *"
+
+[header]
+name = "CCSBot_Idle"
+addr = 0xc0e1b0
+type = "void *"
+
+[header.args]

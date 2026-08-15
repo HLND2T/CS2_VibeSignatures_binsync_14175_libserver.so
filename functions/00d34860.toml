@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042915Z
+addr = 0xd34860
+size = 0x45
+name = "sub_D34860"
+type = "long long"
+
+[header]
+name = "sub_D34860"
+addr = 0xd34860
+type = "long long"
+
+[header.args]

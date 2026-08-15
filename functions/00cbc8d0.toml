@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:58:08.720830Z
+addr = 0xcbc8d0
+size = 0x553
+name = "CChicken_Event_Killed"
+type = "long long"
+
+[header]
+name = "CChicken_Event_Killed"
+addr = 0xcbc8d0
+type = "long long"
+
+[header.args]

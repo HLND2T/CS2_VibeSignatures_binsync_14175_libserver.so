@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043884Z
+addr = 0x2136e30
+size = 0x26
+name = "CEntityInstance_NetworkUpdateState_thunk"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CEntityInstance_NetworkUpdateState_thunk"
+addr = 0x2136e30
+type = "long long (__fastcall *)()"
+
+[header.args]

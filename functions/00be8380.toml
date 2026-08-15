@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042834Z
+addr = 0xbe8380
+size = 0x18
+name = "CCSBot_InhibitLookAround"
+type = "void *"
+
+[header]
+name = "CCSBot_InhibitLookAround"
+addr = 0xbe8380
+type = "void *"
+
+[header.args]

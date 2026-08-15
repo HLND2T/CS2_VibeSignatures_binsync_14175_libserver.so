@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:58:08.040398Z
+addr = 0xbb1360
+size = 0x11f5
+name = "FireBullets"
+type = "long long"
+
+[header]
+name = "FireBullets"
+addr = 0xbb1360
+type = "long long"
+
+[header.args]

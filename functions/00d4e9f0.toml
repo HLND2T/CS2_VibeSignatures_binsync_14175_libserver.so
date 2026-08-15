@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042928Z
+addr = 0xd4e9f0
+size = 0x35b
+name = "sub_D4E9F0"
+type = "long long"
+
+[header]
+name = "sub_D4E9F0"
+addr = 0xd4e9f0
+type = "long long"
+
+[header.args]

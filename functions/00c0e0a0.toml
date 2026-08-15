@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042875Z
+addr = 0xc0e0a0
+size = 0x10a
+name = "CCSBot_SetState"
+type = "void *"
+
+[header]
+name = "CCSBot_SetState"
+addr = 0xc0e0a0
+type = "void *"
+
+[header.args]

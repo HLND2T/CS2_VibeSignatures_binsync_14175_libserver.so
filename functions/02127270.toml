@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043847Z
+addr = 0x2127270
+size = 0x26a
+name = "CEntitySystem_RemoveEntityFromNameMap"
+type = "void"
+
+[header]
+name = "CEntitySystem_RemoveEntityFromNameMap"
+addr = 0x2127270
+type = "void"
+
+[header.args]

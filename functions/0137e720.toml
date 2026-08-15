@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043127Z
+addr = 0x137e720
+size = 0x44d
+name = "GameSystem_Think_CheckSteamBan"
+type = "long long"
+
+[header]
+name = "GameSystem_Think_CheckSteamBan"
+addr = 0x137e720
+type = "long long"
+
+[header.args]

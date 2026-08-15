@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043603Z
+addr = 0x182bc50
+size = 0x25
+name = "CEnvEntityIgniter_Precache"
+type = "long long"
+
+[header]
+name = "CEnvEntityIgniter_Precache"
+addr = 0x182bc50
+type = "long long"
+
+[header.args]

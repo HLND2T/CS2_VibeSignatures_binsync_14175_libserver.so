@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043441Z
+addr = 0x17182a0
+size = 0xa9
+name = "CLoopModeGame_ShutdownServer"
+type = "unsigned long long *"
+
+[header]
+name = "CLoopModeGame_ShutdownServer"
+addr = 0x17182a0
+type = "unsigned long long *"
+
+[header.args]

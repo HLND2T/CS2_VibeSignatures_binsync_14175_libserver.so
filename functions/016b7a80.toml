@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043381Z
+addr = 0x16b7a80
+size = 0x75
+name = "CGameSceneNode_PreInstanceSpawn"
+type = "long long"
+
+[header]
+name = "CGameSceneNode_PreInstanceSpawn"
+addr = 0x16b7a80
+type = "long long"
+
+[header.args]

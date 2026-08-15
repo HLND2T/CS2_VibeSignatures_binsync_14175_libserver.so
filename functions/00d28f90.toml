@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042910Z
+addr = 0xd28f90
+size = 0x11
+name = "CBaseTrigger_EndTouch"
+type = "long long"
+
+[header]
+name = "CBaseTrigger_EndTouch"
+addr = 0xd28f90
+type = "long long"
+
+[header.args]

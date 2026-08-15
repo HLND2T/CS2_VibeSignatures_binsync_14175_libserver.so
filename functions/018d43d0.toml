@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043633Z
+addr = 0x18d43d0
+size = 0xa
+name = "CSource2GameClients_ClientSetConVarUserInfoSet"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ClientSetConVarUserInfoSet"
+addr = 0x18d43d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042945Z
+addr = 0xd59780
+size = 0x29a
+name = "CBaseTrigger_StartTouch"
+type = "long long"
+
+[header]
+name = "CBaseTrigger_StartTouch"
+addr = 0xd59780
+type = "long long"
+
+[header.args]

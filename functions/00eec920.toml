@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042975Z
+addr = 0xeec920
+size = 0x6d1
+name = "IGameSystem_InitAllSystems"
+type = "long long"
+
+[header]
+name = "IGameSystem_InitAllSystems"
+addr = 0xeec920
+type = "long long"
+
+[header.args]

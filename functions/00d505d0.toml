@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042933Z
+addr = 0xd505d0
+size = 0x532
+name = "CBaseEntity_SetMoveType"
+type = "void"
+
+[header]
+name = "CBaseEntity_SetMoveType"
+addr = 0xd505d0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042950Z
+addr = 0xd642c0
+size = 0x189d
+name = "CBaseEntity_DrawDebugTextOverlays"
+type = "void"
+
+[header]
+name = "CBaseEntity_DrawDebugTextOverlays"
+addr = 0xd642c0
+type = "void"
+
+[header.args]

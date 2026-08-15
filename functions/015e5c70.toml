@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043297Z
+addr = 0x15e5c70
+size = 0x1c0
+name = "CBasePlayerPawn_GetEyeAngles"
+type = "__m128i"
+
+[header]
+name = "CBasePlayerPawn_GetEyeAngles"
+addr = 0x15e5c70
+type = "__m128i"
+
+[header.args]

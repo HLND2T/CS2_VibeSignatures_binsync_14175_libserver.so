@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042923Z
+addr = 0xd36550
+size = 0x81
+name = "sub_D36550"
+type = "double"
+
+[header]
+name = "sub_D36550"
+addr = 0xd36550
+type = "double"
+
+[header.args]

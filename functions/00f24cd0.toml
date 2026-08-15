@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042985Z
+addr = 0xf24cd0
+size = 0xb9e
+name = "CPhysicsGameSystem_ProcessContactEvents"
+type = "long long"
+
+[header]
+name = "CPhysicsGameSystem_ProcessContactEvents"
+addr = 0xf24cd0
+type = "long long"
+
+[header.args]

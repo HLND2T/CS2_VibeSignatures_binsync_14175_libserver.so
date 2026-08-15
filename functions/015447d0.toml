@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043221Z
+addr = 0x15447d0
+size = 0xb59
+name = "CCSPlayer_UseServices_BumpWeapon"
+type = "long long"
+
+[header]
+name = "CCSPlayer_UseServices_BumpWeapon"
+addr = 0x15447d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-15T07:57:57.042751Z
+addr = 0xa29f60
+size = 0x1e
+name = "CBaseEntity_GetEyeAngles"
+
+[header]
+name = "CBaseEntity_GetEyeAngles"
+addr = 0xa29f60
+
+[header.args]

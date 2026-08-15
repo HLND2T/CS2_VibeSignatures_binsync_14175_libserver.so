@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043732Z
+addr = 0x1a46280
+size = 0x329
+name = "CScriptedSequence_SynchronizeSequence"
+type = "long long"
+
+[header]
+name = "CScriptedSequence_SynchronizeSequence"
+addr = 0x1a46280
+type = "long long"
+
+[header.args]

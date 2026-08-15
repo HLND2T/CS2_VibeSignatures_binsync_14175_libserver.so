@@ -1,0 +1,10 @@
+last_change = 2026-08-15T07:58:19.786489Z
+addr = 0x18d2eb0
+size = 0xb1
+name = "CSource2Server_Shutdown"
+
+[header]
+name = "CSource2Server_Shutdown"
+addr = 0x18d2eb0
+
+[header.args]

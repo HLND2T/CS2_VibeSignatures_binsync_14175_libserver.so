@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043675Z
+addr = 0x18df0f0
+size = 0x31d
+name = "CSource2GameClients_ClientDisconnect"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CSource2GameClients_ClientDisconnect"
+addr = 0x18df0f0
+type = "long long (__fastcall *)()"
+
+[header.args]

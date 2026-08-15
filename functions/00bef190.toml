@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042837Z
+addr = 0xbef190
+size = 0x27d
+name = "CCSBot_PrintIfWatched"
+type = "long long"
+
+[header]
+name = "CCSBot_PrintIfWatched"
+addr = 0xbef190
+type = "long long"
+
+[header.args]

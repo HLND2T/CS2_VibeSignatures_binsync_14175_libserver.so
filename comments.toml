@@ -1,0 +1,839 @@
+[0xae22fe]
+last_change = 2026-08-15T07:58:07.428104Z
+addr = 0xae22fe
+func_addr = 0xae1d30
+comment = "_QWORD"
+decompiled = false
+
+[0xae2442]
+last_change = 2026-08-15T07:58:07.428142Z
+addr = 0xae2442
+func_addr = 0xae1d30
+comment = "_QWORD"
+decompiled = false
+
+[0xae4ddf]
+last_change = 2026-08-15T07:58:07.464326Z
+addr = 0xae4ddf
+func_addr = 0xae4220
+comment = "_QWORD"
+decompiled = false
+
+[0xae4e20]
+last_change = 2026-08-15T07:58:07.464351Z
+addr = 0xae4e20
+func_addr = 0xae4220
+comment = "_QWORD"
+decompiled = false
+
+[0xaeecd7]
+last_change = 2026-08-15T07:58:07.572854Z
+addr = 0xaeecd7
+func_addr = 0xaee040
+comment = "_QWORD"
+decompiled = false
+
+[0xaf9c89]
+last_change = 2026-08-15T07:58:07.644774Z
+addr = 0xaf9c89
+func_addr = 0xaf8520
+comment = "_QWORD"
+decompiled = false
+
+[0xaf9dfb]
+last_change = 2026-08-15T07:58:07.644798Z
+addr = 0xaf9dfb
+func_addr = 0xaf8520
+comment = "_QWORD"
+decompiled = false
+
+[0xb9a390]
+last_change = 2026-08-15T07:58:08.004284Z
+addr = 0xb9a390
+func_addr = 0xb9a390
+comment = "switch 7 cases"
+decompiled = false
+
+[0xb9a3b1]
+last_change = 2026-08-15T07:58:08.004314Z
+addr = 0xb9a3b1
+func_addr = 0xb9a390
+comment = "switch jump"
+decompiled = false
+
+[0xb9a3b8]
+last_change = 2026-08-15T07:58:08.004321Z
+addr = 0xb9a3b8
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 case 6"
+decompiled = false
+
+[0xb9a3e0]
+last_change = 2026-08-15T07:58:08.004327Z
+addr = 0xb9a3e0
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 case 2"
+decompiled = false
+
+[0xb9a468]
+last_change = 2026-08-15T07:58:08.004336Z
+addr = 0xb9a468
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 case 4"
+decompiled = false
+
+[0xb9a4e8]
+last_change = 2026-08-15T07:58:08.004342Z
+addr = 0xb9a4e8
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 case 5"
+decompiled = false
+
+[0xb9a500]
+last_change = 2026-08-15T07:58:08.004348Z
+addr = 0xb9a500
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 case 3"
+decompiled = false
+
+[0xb9a517]
+last_change = 2026-08-15T07:58:08.004354Z
+addr = 0xb9a517
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 cases 0,1"
+decompiled = false
+
+[0xb9a51b]
+last_change = 2026-08-15T07:58:08.004359Z
+addr = 0xb9a51b
+func_addr = 0xb9a390
+comment = "jumptable 0000000000B9A3B1 default case"
+decompiled = false
+
+[0xbb1bc2]
+last_change = 2026-08-15T07:58:08.040369Z
+addr = 0xbb1bc2
+func_addr = 0xbb1360
+comment = "_QWORD"
+decompiled = false
+
+[0xbb1bc7]
+last_change = 2026-08-15T07:58:08.040398Z
+addr = 0xbb1bc7
+func_addr = 0xbb1360
+comment = "_QWORD"
+decompiled = false
+
+[0xbf67d0]
+last_change = 2026-08-15T07:58:08.185009Z
+addr = 0xbf67d0
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf67d2]
+last_change = 2026-08-15T07:58:08.185041Z
+addr = 0xbf67d2
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf681b]
+last_change = 2026-08-15T07:58:08.185048Z
+addr = 0xbf681b
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf681d]
+last_change = 2026-08-15T07:58:08.185055Z
+addr = 0xbf681d
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf6864]
+last_change = 2026-08-15T07:58:08.185065Z
+addr = 0xbf6864
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf6866]
+last_change = 2026-08-15T07:58:08.185072Z
+addr = 0xbf6866
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf6885]
+last_change = 2026-08-15T07:58:08.185078Z
+addr = 0xbf6885
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xbf6887]
+last_change = 2026-08-15T07:58:08.185084Z
+addr = 0xbf6887
+func_addr = 0xbf6660
+comment = "_QWORD"
+decompiled = false
+
+[0xc0128d]
+last_change = 2026-08-15T07:58:08.364656Z
+addr = 0xc0128d
+func_addr = 0xbffdb0
+comment = "_QWORD"
+decompiled = false
+
+[0xcbc9fb]
+last_change = 2026-08-15T07:58:08.720830Z
+addr = 0xcbc9fb
+func_addr = 0xcbc8d0
+comment = "_QWORD"
+decompiled = false
+
+[0xd4fc08]
+last_change = 2026-08-15T07:58:09.219577Z
+addr = 0xd4fc08
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 default case, cases 0,1"
+decompiled = false
+
+[0xd4fced]
+last_change = 2026-08-15T07:58:09.219619Z
+addr = 0xd4fced
+func_addr = 0xd4f990
+comment = "switch 7 cases"
+decompiled = false
+
+[0xd4fd07]
+last_change = 2026-08-15T07:58:09.219629Z
+addr = 0xd4fd07
+func_addr = 0xd4f990
+comment = "switch jump"
+decompiled = false
+
+[0xd4fd48]
+last_change = 2026-08-15T07:58:09.219647Z
+addr = 0xd4fd48
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 case 6"
+decompiled = false
+
+[0xd4fd80]
+last_change = 2026-08-15T07:58:09.219655Z
+addr = 0xd4fd80
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 case 5"
+decompiled = false
+
+[0xd4fda0]
+last_change = 2026-08-15T07:58:09.219663Z
+addr = 0xd4fda0
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 case 4"
+decompiled = false
+
+[0xd4fdd8]
+last_change = 2026-08-15T07:58:09.219671Z
+addr = 0xd4fdd8
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 case 3"
+decompiled = false
+
+[0xd4fe00]
+last_change = 2026-08-15T07:58:09.219679Z
+addr = 0xd4fe00
+func_addr = 0xd4f990
+comment = "jumptable 0000000000D4FD07 case 2"
+decompiled = false
+
+[0xf88570]
+last_change = 2026-08-15T07:58:11.745713Z
+addr = 0xf88570
+func_addr = 0xf88500
+comment = "switch 7 cases"
+decompiled = false
+
+[0x130a449]
+last_change = 2026-08-15T07:58:12.173995Z
+addr = 0x130a449
+func_addr = 0x1309e60
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x1388fa0]
+last_change = 2026-08-15T07:58:12.280610Z
+addr = 0x1388fa0
+func_addr = 0x1388d50
+comment = "_QWORD"
+decompiled = false
+
+[0x1388fa2]
+last_change = 2026-08-15T07:58:12.280673Z
+addr = 0x1388fa2
+func_addr = 0x1388d50
+comment = "_QWORD"
+decompiled = false
+
+[0x138b339]
+last_change = 2026-08-15T07:58:12.352088Z
+addr = 0x138b339
+func_addr = 0x138b2c0
+comment = "switch 23 cases"
+decompiled = false
+
+[0x138b354]
+last_change = 2026-08-15T07:58:12.352153Z
+addr = 0x138b354
+func_addr = 0x138b2c0
+comment = "switch jump"
+decompiled = false
+
+[0x138bd50]
+last_change = 2026-08-15T07:58:12.352169Z
+addr = 0x138bd50
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 17"
+decompiled = false
+
+[0x138bdb0]
+last_change = 2026-08-15T07:58:12.352188Z
+addr = 0x138bdb0
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 18"
+decompiled = false
+
+[0x138ced3]
+last_change = 2026-08-15T07:58:12.352203Z
+addr = 0x138ced3
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 default case, cases 0,2,3,15"
+decompiled = false
+
+[0x138cfe7]
+last_change = 2026-08-15T07:58:12.352216Z
+addr = 0x138cfe7
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 7"
+decompiled = false
+
+[0x138d004]
+last_change = 2026-08-15T07:58:12.352230Z
+addr = 0x138d004
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 6"
+decompiled = false
+
+[0x138d021]
+last_change = 2026-08-15T07:58:12.352243Z
+addr = 0x138d021
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 5"
+decompiled = false
+
+[0x138d03e]
+last_change = 2026-08-15T07:58:12.352256Z
+addr = 0x138d03e
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 11"
+decompiled = false
+
+[0x138d05b]
+last_change = 2026-08-15T07:58:12.352270Z
+addr = 0x138d05b
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 10"
+decompiled = false
+
+[0x138d078]
+last_change = 2026-08-15T07:58:12.352283Z
+addr = 0x138d078
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 9"
+decompiled = false
+
+[0x138d095]
+last_change = 2026-08-15T07:58:12.352296Z
+addr = 0x138d095
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 8"
+decompiled = false
+
+[0x138d0b2]
+last_change = 2026-08-15T07:58:12.352310Z
+addr = 0x138d0b2
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 19"
+decompiled = false
+
+[0x138d0cf]
+last_change = 2026-08-15T07:58:12.352324Z
+addr = 0x138d0cf
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 16"
+decompiled = false
+
+[0x138d0ec]
+last_change = 2026-08-15T07:58:12.352337Z
+addr = 0x138d0ec
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 22"
+decompiled = false
+
+[0x138d109]
+last_change = 2026-08-15T07:58:12.352350Z
+addr = 0x138d109
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 21"
+decompiled = false
+
+[0x138d126]
+last_change = 2026-08-15T07:58:12.352364Z
+addr = 0x138d126
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 20"
+decompiled = false
+
+[0x138d143]
+last_change = 2026-08-15T07:58:12.352377Z
+addr = 0x138d143
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 14"
+decompiled = false
+
+[0x138d160]
+last_change = 2026-08-15T07:58:12.352391Z
+addr = 0x138d160
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 13"
+decompiled = false
+
+[0x138d17d]
+last_change = 2026-08-15T07:58:12.352404Z
+addr = 0x138d17d
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 12"
+decompiled = false
+
+[0x138d19a]
+last_change = 2026-08-15T07:58:12.352417Z
+addr = 0x138d19a
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 1"
+decompiled = false
+
+[0x138d1b7]
+last_change = 2026-08-15T07:58:12.352430Z
+addr = 0x138d1b7
+func_addr = 0x138b2c0
+comment = "jumptable 000000000138B354 case 4"
+decompiled = false
+
+[0x14d9211]
+last_change = 2026-08-15T07:58:12.785251Z
+addr = 0x14d9211
+func_addr = 0x14d9210
+comment = "s2"
+decompiled = false
+
+[0x14d9236]
+last_change = 2026-08-15T07:58:12.785316Z
+addr = 0x14d9236
+func_addr = 0x14d9210
+comment = "s2"
+decompiled = false
+
+[0x14d9249]
+last_change = 2026-08-15T07:58:12.785333Z
+addr = 0x14d9249
+func_addr = 0x14d9210
+comment = "s2"
+decompiled = false
+
+[0x14d925c]
+last_change = 2026-08-15T07:58:12.785348Z
+addr = 0x14d925c
+func_addr = 0x14d9210
+comment = "s2"
+decompiled = false
+
+[0x14d92a0]
+last_change = 2026-08-15T07:58:12.785363Z
+addr = 0x14d92a0
+func_addr = 0x14d9210
+comment = "s2"
+decompiled = false
+
+[0x1514778]
+last_change = 2026-08-15T07:58:13.002909Z
+addr = 0x1514778
+func_addr = 0x1513980
+comment = "_QWORD"
+decompiled = false
+
+[0x1532b5f]
+last_change = 2026-08-15T07:58:13.184098Z
+addr = 0x1532b5f
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532b66]
+last_change = 2026-08-15T07:58:13.184166Z
+addr = 0x1532b66
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532b69]
+last_change = 2026-08-15T07:58:13.184184Z
+addr = 0x1532b69
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532b70]
+last_change = 2026-08-15T07:58:13.184200Z
+addr = 0x1532b70
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532b7c]
+last_change = 2026-08-15T07:58:13.184215Z
+addr = 0x1532b7c
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532baf]
+last_change = 2026-08-15T07:58:13.184230Z
+addr = 0x1532baf
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532bc6]
+last_change = 2026-08-15T07:58:13.184246Z
+addr = 0x1532bc6
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532bdd]
+last_change = 2026-08-15T07:58:13.184261Z
+addr = 0x1532bdd
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532bf4]
+last_change = 2026-08-15T07:58:13.184276Z
+addr = 0x1532bf4
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532c07]
+last_change = 2026-08-15T07:58:13.184291Z
+addr = 0x1532c07
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532c1a]
+last_change = 2026-08-15T07:58:13.184306Z
+addr = 0x1532c1a
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532c2d]
+last_change = 2026-08-15T07:58:13.184321Z
+addr = 0x1532c2d
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532c40]
+last_change = 2026-08-15T07:58:13.184336Z
+addr = 0x1532c40
+func_addr = 0x15329e0
+comment = "s1"
+decompiled = false
+
+[0x1532fb8]
+last_change = 2026-08-15T07:58:13.184352Z
+addr = 0x1532fb8
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x1532fbb]
+last_change = 2026-08-15T07:58:13.184367Z
+addr = 0x1532fbb
+func_addr = 0x15329e0
+comment = "_QWORD"
+decompiled = false
+
+[0x159698e]
+last_change = 2026-08-15T07:58:13.913613Z
+addr = 0x159698e
+func_addr = 0x1596760
+comment = "jumptable 00000000015969CB default case"
+decompiled = false
+
+[0x159e578]
+last_change = 2026-08-15T07:58:14.022474Z
+addr = 0x159e578
+func_addr = 0x159e4f0
+comment = "_QWORD"
+decompiled = false
+
+[0x16a7eba]
+last_change = 2026-08-15T07:58:15.469436Z
+addr = 0x16a7eba
+func_addr = 0x16a7e40
+comment = "s1"
+decompiled = false
+
+[0x16a7ed5]
+last_change = 2026-08-15T07:58:15.469535Z
+addr = 0x16a7ed5
+func_addr = 0x16a7e40
+comment = "s2"
+decompiled = false
+
+[0x16a9a69]
+last_change = 2026-08-15T07:58:15.542741Z
+addr = 0x16a9a69
+func_addr = 0x16a9740
+comment = "_QWORD"
+decompiled = false
+
+[0x16a9a70]
+last_change = 2026-08-15T07:58:15.542828Z
+addr = 0x16a9a70
+func_addr = 0x16a9740
+comment = "_QWORD"
+decompiled = false
+
+[0x16a9f9f]
+last_change = 2026-08-15T07:58:15.542849Z
+addr = 0x16a9f9f
+func_addr = 0x16a9740
+comment = "_QWORD"
+decompiled = false
+
+[0x16a9fa6]
+last_change = 2026-08-15T07:58:15.542886Z
+addr = 0x16a9fa6
+func_addr = 0x16a9740
+comment = "_QWORD"
+decompiled = false
+
+[0x16c64f9]
+last_change = 2026-08-15T07:58:16.154642Z
+addr = 0x16c64f9
+func_addr = 0x16c6450
+comment = "switch 7 cases"
+decompiled = false
+
+[0x16c6513]
+last_change = 2026-08-15T07:58:16.154731Z
+addr = 0x16c6513
+func_addr = 0x16c6450
+comment = "switch jump"
+decompiled = false
+
+[0x16c753c]
+last_change = 2026-08-15T07:58:16.154754Z
+addr = 0x16c753c
+func_addr = 0x16c6450
+comment = "switch 7 cases"
+decompiled = false
+
+[0x16c7556]
+last_change = 2026-08-15T07:58:16.154775Z
+addr = 0x16c7556
+func_addr = 0x16c6450
+comment = "switch jump"
+decompiled = false
+
+[0x16c75c0]
+last_change = 2026-08-15T07:58:16.154796Z
+addr = 0x16c75c0
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 case 6\njumptable 00000000016C7556 case 6"
+decompiled = false
+
+[0x16c7600]
+last_change = 2026-08-15T07:58:16.154816Z
+addr = 0x16c7600
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 case 5\njumptable 00000000016C7556 case 5"
+decompiled = false
+
+[0x16c7620]
+last_change = 2026-08-15T07:58:16.154838Z
+addr = 0x16c7620
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 case 4\njumptable 00000000016C7556 case 4"
+decompiled = false
+
+[0x16c7660]
+last_change = 2026-08-15T07:58:16.154858Z
+addr = 0x16c7660
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 case 3\njumptable 00000000016C7556 case 3"
+decompiled = false
+
+[0x16c7680]
+last_change = 2026-08-15T07:58:16.154879Z
+addr = 0x16c7680
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 case 2\njumptable 00000000016C7556 case 2"
+decompiled = false
+
+[0x16c7abf]
+last_change = 2026-08-15T07:58:16.154900Z
+addr = 0x16c7abf
+func_addr = 0x16c6450
+comment = "jumptable 00000000016C6513 default case, cases 0,1\njumptable 00000000016C7556 default case, cases 0,1"
+decompiled = false
+
+[0x172b761]
+last_change = 2026-08-15T07:58:17.372025Z
+addr = 0x172b761
+func_addr = 0x172a0d0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x17f31bf]
+last_change = 2026-08-15T07:58:19.183465Z
+addr = 0x17f31bf
+func_addr = 0x17f2f00
+comment = "_QWORD"
+decompiled = false
+
+[0x17f3293]
+last_change = 2026-08-15T07:58:19.183573Z
+addr = 0x17f3293
+func_addr = 0x17f2f00
+comment = "_QWORD"
+decompiled = false
+
+[0x18d2f54]
+last_change = 2026-08-15T07:58:19.786489Z
+addr = 0x18d2f54
+func_addr = 0x18d2eb0
+comment = "_QWORD"
+decompiled = false
+
+[0x18eba1c]
+last_change = 2026-08-15T07:58:21.063483Z
+addr = 0x18eba1c
+func_addr = 0x18eb620
+comment = "_QWORD"
+decompiled = false
+
+[0x18eba38]
+last_change = 2026-08-15T07:58:21.063603Z
+addr = 0x18eba38
+func_addr = 0x18eb620
+comment = "_QWORD"
+decompiled = false
+
+[0x18f8d38]
+last_change = 2026-08-15T07:58:21.169851Z
+addr = 0x18f8d38
+func_addr = 0x18f8c60
+comment = "s2"
+decompiled = false
+
+[0x18f8d3b]
+last_change = 2026-08-15T07:58:21.169969Z
+addr = 0x18f8d3b
+func_addr = 0x18f8c60
+comment = "s1"
+decompiled = false
+
+[0x1a8ee71]
+last_change = 2026-08-15T07:58:21.917110Z
+addr = 0x1a8ee71
+func_addr = 0x1a8ee70
+comment = "s2"
+decompiled = false
+
+[0x1a8eea0]
+last_change = 2026-08-15T07:58:21.917250Z
+addr = 0x1a8eea0
+func_addr = 0x1a8ee70
+comment = "s2"
+decompiled = false
+
+[0x2138b97]
+last_change = 2026-08-15T07:58:24.825357Z
+addr = 0x2138b97
+func_addr = 0x2138a20
+comment = "switch 37 cases"
+decompiled = false
+
+[0x2138bb3]
+last_change = 2026-08-15T07:58:24.825503Z
+addr = 0x2138bb3
+func_addr = 0x2138a20
+comment = "switch jump"
+decompiled = false
+
+[0x2138bc5]
+last_change = 2026-08-15T07:58:24.825547Z
+addr = 0x2138bc5
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 cases 3,14"
+decompiled = false
+
+[0x2138df8]
+last_change = 2026-08-15T07:58:24.825586Z
+addr = 0x2138df8
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 default case, cases 5-13,15-24,26,28,29,31-38"
+decompiled = false
+
+[0x2138e18]
+last_change = 2026-08-15T07:58:24.825624Z
+addr = 0x2138e18
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 case 39"
+decompiled = false
+
+[0x2138e28]
+last_change = 2026-08-15T07:58:24.825662Z
+addr = 0x2138e28
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 case 4"
+decompiled = false
+
+[0x2138e61]
+last_change = 2026-08-15T07:58:24.825699Z
+addr = 0x2138e61
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 case 27"
+decompiled = false
+
+[0x2138e6e]
+last_change = 2026-08-15T07:58:24.825737Z
+addr = 0x2138e6e
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 case 30"
+decompiled = false
+
+[0x2138ebb]
+last_change = 2026-08-15T07:58:24.825793Z
+addr = 0x2138ebb
+func_addr = 0x2138a20
+comment = "jumptable 0000000002138BB3 case 25"
+decompiled = false

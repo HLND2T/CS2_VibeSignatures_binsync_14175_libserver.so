@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043671Z
+addr = 0x18deb90
+size = 0x1b2
+name = "CSource2GameClients_ClientActive"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ClientActive"
+addr = 0x18deb90
+type = "long long"
+
+[header.args]

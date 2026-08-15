@@ -1,0 +1,10 @@
+last_change = 2026-08-15T07:57:57.043784Z
+addr = 0x210ef30
+size = 0x15
+name = "CEntityInstance_GetScriptDesc"
+
+[header]
+name = "CEntityInstance_GetScriptDesc"
+addr = 0x210ef30
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043277Z
+addr = 0x15dec30
+size = 0x84
+name = "CBaseModelEntity_GetBoneTransform"
+type = "__m128i *"
+
+[header]
+name = "CBaseModelEntity_GetBoneTransform"
+addr = 0x15dec30
+type = "__m128i *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043238Z
+addr = 0x155a1c0
+size = 0x32e
+name = "CCSPlayer_MovementServices_CheckMovingGround"
+type = "long long"
+
+[header]
+name = "CCSPlayer_MovementServices_CheckMovingGround"
+addr = 0x155a1c0
+type = "long long"
+
+[header.args]

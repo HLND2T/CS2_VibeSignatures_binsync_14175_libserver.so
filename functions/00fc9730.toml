@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.043119Z
+addr = 0xfc9730
+size = 0xc14
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
+type = "long long"
+
+[header]
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
+addr = 0xfc9730
+type = "long long"
+
+[header.args]

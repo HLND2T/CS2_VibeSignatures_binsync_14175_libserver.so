@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:57.042762Z
+addr = 0xa31c90
+size = 0x9d
+name = "CBaseEntity_NetworkStateChanged"
+type = "void *"
+
+[header]
+name = "CBaseEntity_NetworkStateChanged"
+addr = 0xa31c90
+type = "void *"
+
+[header.args]
