@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.043683Z
+last_change = 2026-08-16T09:32:18.915614Z
 addr = 0x18e90a0
 size = 0x11f
 name = "CSource2GameClients_ClientCommand"
-type = "long long"
+type = "void"
 
 [header]
 name = "CSource2GameClients_ClientCommand"
 addr = 0x18e90a0
-type = "long long"
+type = "void"
 
 [header.args]

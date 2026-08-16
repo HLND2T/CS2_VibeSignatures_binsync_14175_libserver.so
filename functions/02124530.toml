@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.043840Z
+last_change = 2026-08-16T09:32:18.916075Z
 addr = 0x2124530
 size = 0x16a
 name = "CEntitySystem_QueueSpawnEntity"
-type = "long long"
+type = "void"
 
 [header]
 name = "CEntitySystem_QueueSpawnEntity"
 addr = 0x2124530
-type = "long long"
+type = "void"
 
 [header.args]

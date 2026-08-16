@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.042991Z
+last_change = 2026-08-16T09:32:18.913730Z
 addr = 0xf2cd10
 size = 0x492
 name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
-type = "long long"
+type = "long long (__fastcall ****)(double, double)"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
 addr = 0xf2cd10
-type = "long long"
+type = "long long (__fastcall ****)(double, double)"
 
 [header.args]

@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.042998Z
+last_change = 2026-08-16T09:32:18.913751Z
 addr = 0xf2d750
 size = 0x268
 name = "CSpawnGroupMgrGameSystem_SetActiveSpawnGroup"
-type = "long long"
+type = "void"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_SetActiveSpawnGroup"
 addr = 0xf2d750
-type = "long long"
+type = "void"
 
 [header.args]

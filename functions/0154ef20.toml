@@ -1,10 +1,12 @@
-last_change = 2026-08-15T07:57:57.043231Z
+last_change = 2026-08-16T09:32:18.914333Z
 addr = 0x154ef20
 size = 0x5
 name = "CCSPlayer_UseServices_OnUse"
+type = "long long"
 
 [header]
 name = "CCSPlayer_UseServices_OnUse"
 addr = 0x154ef20
+type = "long long"
 
 [header.args]

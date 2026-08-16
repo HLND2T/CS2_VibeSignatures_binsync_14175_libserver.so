@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.043266Z
+last_change = 2026-08-16T09:32:18.914430Z
 addr = 0x15cfd10
 size = 0x215
 name = "CCSPlayerPawn_OnTakeDamage"
-type = "long long (__fastcall *)()"
+type = "void (*)()"
 
 [header]
 name = "CCSPlayerPawn_OnTakeDamage"
 addr = 0x15cfd10
-type = "long long (__fastcall *)()"
+type = "void (*)()"
 
 [header.args]

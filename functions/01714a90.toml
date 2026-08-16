@@ -1,10 +1,12 @@
-last_change = 2026-08-15T07:57:57.043429Z
+last_change = 2026-08-16T09:32:18.914891Z
 addr = 0x1714a90
 size = 0x327
 name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
+type = "void"
 
 [header]
 name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
 addr = 0x1714a90
+type = "void"
 
 [header.args]

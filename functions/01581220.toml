@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.043245Z
+last_change = 2026-08-16T09:32:18.914367Z
 addr = 0x1581220
 size = 0x662
 name = "CCSPlayer_MovementServices_CheckVelocity"
-type = "float *"
+type = "unsigned long long"
 
 [header]
 name = "CCSPlayer_MovementServices_CheckVelocity"
 addr = 0x1581220
-type = "float *"
+type = "unsigned long long"
 
 [header.args]

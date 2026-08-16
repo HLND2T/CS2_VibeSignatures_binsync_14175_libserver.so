@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:57.043577Z
+last_change = 2026-08-16T09:32:18.915307Z
 addr = 0x17f3ac0
 size = 0x693
 name = "GiveCommand"
-type = "unsigned long long *"
+type = "void"
 
 [header]
 name = "GiveCommand"
 addr = 0x17f3ac0
-type = "unsigned long long *"
+type = "void"
 
 [header.args]
